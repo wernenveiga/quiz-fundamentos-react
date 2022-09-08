@@ -1,6 +1,7 @@
 {
   "name": "quiz-fundamentos-react",
   "private": true,
+  "homepage": "Quiz-com-React.Js/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
